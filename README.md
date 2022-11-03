@@ -9,4 +9,5 @@ hotelu (ima samo jedan menadzer po hotelu). Tu postoji i servis za notifikacije 
 email kada je smestaj uspesno zakazan, kao i podsetnike na rezervacije.<br><br>
 
 ## Tehnologije<br>
+Koriscnea je Mikroservisna arhitektura i message broker.
 Projekat radjen u Javi, koriscen:SPRING,MAVEN,HIBERNATE
